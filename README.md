@@ -1,6 +1,6 @@
 # 📈 Stock Data Correlation Analysis
 
-This project performs a detailed correlation analysis of stock market data. It focuses on calculating normalized returns and generating correlation matrices across different companies over multiple time windows, visualized through informative heatmaps.
+This project performs a detailed correlation analysis of stock market data for S&P500. It focuses on calculating normalized returns and generating correlation matrices across different companies over multiple time windows, visualized through informative heatmaps.
 
 ---
 
@@ -17,21 +17,6 @@ Understanding the correlations between different stocks is a fundamental tool in
 - Calculates time-windowed correlation matrices between stocks
 - Visualizes each correlation matrix as a heatmap
 - Saves each heatmap as a high-resolution `.png` image
-
----
-
-## 📁 Folder Structure
-
-```
-project/
-├── Correlation_Matrix.py
-└── Data/
-    └── Category1/
-        └── CompanyA.csv
-        └── CompanyB.csv
-    └── Category2/
-        └── CompanyC.csv
-```
 
 ---
 
