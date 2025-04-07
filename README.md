@@ -64,7 +64,7 @@ The script will:
 
 ## 📊 Example Output
 
-<img src="Window_0.png" alt="Example Heatmap" width="500"/>
+<img src="Window0.png" alt="Example Heatmap" width="500"/>
 
 Each heatmap shows the correlation between companies in a specific time window, helping visualize how relationships between stocks evolve over time.
 
