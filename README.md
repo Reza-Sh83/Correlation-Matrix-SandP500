@@ -1,4 +1,4 @@
-# 📈 Stock Data Correlation Analysis
+# 📈 Correlation Analysis of S&P500 Stocks
 
 This project performs a detailed correlation analysis of stock market data for S&P500. It focuses on calculating normalized returns and generating correlation matrices across different companies over multiple time windows, visualized through informative heatmaps.
 
