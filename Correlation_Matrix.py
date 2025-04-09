@@ -158,7 +158,7 @@ def heat_map(correlation_matrices, stock_data):
 
 # %%
 # Define the path to the folder containing the stock data
-main_folder = r"D:\My physics project\Econophysics\Data\Data_Ex2\pure"
+main_folder = r"YOUR FILE PATH"
 
 # Extract stock data from the folder
 stock_data = extract_data(main_folder)
